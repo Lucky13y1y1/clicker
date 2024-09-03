@@ -61,7 +61,7 @@ bot.onText(/\/start/, async (msg) => {
       inline_keyboard: [
         [{
           text: 'Грати',
-          web_app: { url: 'https://clickerk-lucky13y1y1s-projects.vercel.app' }
+          web_app: { url: 'https://clicker-3999.onrender.com' }
         }]
       ]
     }
